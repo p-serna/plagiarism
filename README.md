@@ -1,5 +1,5 @@
-# plagiarism
-Plagiarism project
+# Plagiarism RBF SVM classifier
+Plagiarism project udacity
 
 ## About
 
